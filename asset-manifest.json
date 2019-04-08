@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-simple-type-signs/static/css/main.cdea00e6.chunk.css",
-  "main.js": "/react-simple-type-signs/static/js/main.a8c380e2.chunk.js",
-  "main.js.map": "/react-simple-type-signs/static/js/main.a8c380e2.chunk.js.map",
-  "runtime~main.js": "/react-simple-type-signs/static/js/runtime~main.5c38d1e5.js",
-  "runtime~main.js.map": "/react-simple-type-signs/static/js/runtime~main.5c38d1e5.js.map",
-  "static/js/2.65aa1cca.chunk.js": "/react-simple-type-signs/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "/react-simple-type-signs/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "/react-simple-type-signs/index.html",
-  "precache-manifest.8ca46cc78948e14df18aca41b5e62f7a.js": "/react-simple-type-signs/precache-manifest.8ca46cc78948e14df18aca41b5e62f7a.js",
-  "service-worker.js": "/react-simple-type-signs/service-worker.js",
-  "static/css/main.cdea00e6.chunk.css.map": "/react-simple-type-signs/static/css/main.cdea00e6.chunk.css.map"
+  "main.css": "/react-simple-type-signs/./static/css/main.cdea00e6.chunk.css",
+  "main.js": "/react-simple-type-signs/./static/js/main.a8c380e2.chunk.js",
+  "main.js.map": "/react-simple-type-signs/./static/js/main.a8c380e2.chunk.js.map",
+  "runtime~main.js": "/react-simple-type-signs/./static/js/runtime~main.2161e81a.js",
+  "runtime~main.js.map": "/react-simple-type-signs/./static/js/runtime~main.2161e81a.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/react-simple-type-signs/./static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/react-simple-type-signs/./static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/react-simple-type-signs/./index.html",
+  "precache-manifest.87ee7000959c4d9c26a6477855fe4050.js": "/react-simple-type-signs/./precache-manifest.87ee7000959c4d9c26a6477855fe4050.js",
+  "service-worker.js": "/react-simple-type-signs/./service-worker.js",
+  "static/css/main.cdea00e6.chunk.css.map": "/react-simple-type-signs/./static/css/main.cdea00e6.chunk.css.map"
 }
