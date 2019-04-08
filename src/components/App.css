@@ -1,0 +1,29 @@
+.header {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 40px;
+}
+
+input[type='text'],
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  outline: none;
+  border: 1px solid black;
+  transition: .2s;
+}
+
+button {
+  cursor: pointer;
+  text-transform: uppercase;
+  background-color: #bbb;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
+
+.result {
+  font-size: 35px;
+}
