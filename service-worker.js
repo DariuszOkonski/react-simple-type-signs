@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-simple-type-signs/./precache-manifest.87ee7000959c4d9c26a6477855fe4050.js"
+  "/react-simple-type-signs/precache-manifest.8ca46cc78948e14df18aca41b5e62f7a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-simple-type-signs/./index.html", {
+workbox.routing.registerNavigationRoute("/react-simple-type-signs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
